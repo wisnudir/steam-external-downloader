@@ -1,0 +1,41 @@
+{
+	"manifest_version": 2,
+
+	"name": "Steam External Downloader",
+	"short_name": "SteamExtDlr",
+	"version": "1.0",
+	"description": "This extension will add external link download button in Steam Workshop page, visit webstore for request and feedback.",
+	"author": "wisnudir",
+
+  "background": {
+    "scripts": ["main.js"],
+    "persistent": false
+  },
+	"page_action": {
+		"default_icon": {
+			"16": "images/icon16.png",
+			"24": "images/icon24.png",
+			"32": "images/icon32.png"
+		},
+		"default_popup": "html/popup.html",
+		"default_title": "Auto-disable if not opening any specific steam workshop item"
+	},
+
+	"permissions": [
+		"declarativeContent",
+		"activeTab", 
+		"*://steamcommunity.com/*"
+		
+	],
+
+	"content_scripts": [
+		{
+		"matches": [
+			"*://steamcommunity.com/*/filedetails/*",
+			"*://steamcommunity.com//*/filedetails/*"
+		],
+		"js": ["js/inject.js"]
+		}
+	]
+	
+}
