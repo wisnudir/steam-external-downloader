@@ -1,4 +1,5 @@
-# steam-external-downloader
+![logo](https://github.com/wisnudir/steam-external-downloader/blob/master/images/icon128.png)
+# Steam External Downloader
 This is chrome extension/plugin that will add download button to steam workshop page.
 Download button linked to another website, such as [Skymods](http://smods.ru). <br/>
 So it will give you easier way to download workshop item (not subscribe), without copy paste keyword or id anymore, just with click.
@@ -25,11 +26,25 @@ Note: <br />
 ## Demo Images
 Button style will added and blended with steam default style. In the right side image bellow is user interface menu plugin.
 ![image of demo-1](https://github.com/wisnudir/steam-external-downloader/blob/master/demo-images/1400%20560.png)<br />
+<br/><br/>
+
+### First you need to go into specific workshop item like this
+<br/>if not, plugin will disable and button wouldnt appear
 ![image of demo-2](https://github.com/wisnudir/steam-external-downloader/blob/master/demo-images/aa.PNG)<br />
+<br/><br/>
+
+### Then look at the generated button and option 
 ![image of demo-3](https://github.com/wisnudir/steam-external-downloader/blob/master/demo-images/aaa.PNG)<br />
-![image of demo-4](https://github.com/wisnudir/steam-external-downloader/blob/master/demo-images/aaaa.png)<br /><br/>
-### Button will generate specific result:<br />
-![image of demo-1](https://github.com/wisnudir/steam-external-downloader/blob/master/demo-images/aaaaa.PNG)<br />
+<br/><br/>
+
+### Select game, if you select wrong game it would be generate wrong link, or get nothing in search result
+![image of demo-4](https://github.com/wisnudir/steam-external-downloader/blob/master/demo-images/abc.png)
+<br /><br/>
+
+### Finally button will open new tab and load search result
+<br />Look it just show one result and item is equal, without copy paste or typing anymore.
+![image of demo-1](https://github.com/wisnudir/steam-external-downloader/blob/master/demo-images/aaaaa.PNG)
+<br /><br/>
 
 ## Auto-disable
 This extension only enable if you open specific workshop item and/or shared file item<br />
