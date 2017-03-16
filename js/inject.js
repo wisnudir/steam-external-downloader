@@ -11,6 +11,7 @@ var url = location.href;
 var idxId = url.indexOf("id=");
 //get Id
 var id = url.substr(idxId+3, 9);
+//add html button and game selector option
 para.innerHTML = '<div class="isi">\
 <select id="source">\
 <option value="none"> -- Select game --\
@@ -21,16 +22,20 @@ para.innerHTML = '<div class="isi">\
 <option value="transport-fever.smods.ru">Transport Fever (transport-fever.smods.ru)</select><br><br>\
 <a class="btn_darkblue_white_innerfade" style="padding:10px" id="dwBtn" target="_blank">Download</a></div>';
 
-//pick game function
+//add game selector function to option element
 var x = document.getElementById('source');
 x.addEventListener('click', pickSource);
 
-	function pickSource() {
+//link generator function
+function pickSource() {
+    //get value from option element
     var y = document.getElementById("source").value;
     if (y == 'none') {
+	//set link to # if not select any game
     	document.getElementById("dwBtn").setAttribute('href', "#")
 	} 
     else {
+	//generate link by game and id
     	document.getElementById("dwBtn").setAttribute('href', "http://"+ y +"/?s=" + id + "&s_byID=1")
     };	
 }
