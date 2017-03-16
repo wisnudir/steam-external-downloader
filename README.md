@@ -23,7 +23,7 @@ Note: <br />
 > - <b>Im not support pirates</b>, it just tool for altenative asset/mod download
 
 ## Demo Images
-Button style will add and blended with default style
+Button style will added and blended with steam default style.
 ![image of demo-1](https://github.com/wisnudir/steam-external-downloader/blob/master/demo-images/1400%20560.png)<br />
 ![image of demo-2](https://github.com/wisnudir/steam-external-downloader/blob/master/demo-images/aa.PNG)<br />
 ![image of demo-3](https://github.com/wisnudir/steam-external-downloader/blob/master/demo-images/aaa.PNG)<br />
@@ -32,11 +32,11 @@ Button style will add and blended with default style
 ![image of demo-1](https://github.com/wisnudir/steam-external-downloader/blob/master/demo-images/aaaaa.PNG)<br />
 
 ## Auto-disable
-This extension only enable if you open specific workshop item<br />
+This extension only enable if you open specific workshop item and/or shared file item<br />
 ![image of demo-1](https://github.com/wisnudir/steam-external-downloader/blob/master/demo-images/enable.png)<br />
 And will auto-disable when you visit another website<br />
 ![image of demo-1](https://github.com/wisnudir/steam-external-downloader/blob/master/demo-images/disable.png)<br />
-also disable when you visit steam web page but not in specific workshop item<br />
+also disable when you visit steam page but not in specific workshop item<br />
 ![image of demo-1](https://github.com/wisnudir/steam-external-downloader/blob/master/demo-images/disable-2.png)<br /><br/>
 
 ## Released Feature
@@ -50,11 +50,12 @@ also disable when you visit steam web page but not in specific workshop item<br 
 ### v1.1 
 - [ ] Add remember checkbox or setting for game selector *so you dont have to choose game every clicks download button*
 - [ ] Inmprove crawling method *so extension will know current page categories, such us workshop, screenshoot, video share, etc*
-- [ ] Add right button link for workshop collection
+- [ ] Add button link for workshop collection
 - [ ] Add download button in every item at workshop collection list
 - [ ] Add media download (images, video) for non asset/mod item, e.g for Artwork, screenshot
 
-### v1.*
+### v1.2
+- [ ] Add modulator game support feature. This will allow you to manage (add, delete, edit) the external link and game supported.
 - [ ] ...
 
 In version 2.0 will significanly different
@@ -64,5 +65,24 @@ In version 2.0 will significanly different
 - [ ] Add "download" button from skymod as a "Download" button. *It will direct download from cloud storage, such as [uploadfiles.eu](http://uploadfiles.eu/), and bypassing skymod page.*
 - [ ] Add "Search similiar" button 
 <br/><br/>
+## FAQ
+> *Is this plugin will donload content(mod,asset,etc) from Steam server?* <br/>
+No, its not. It just link to external web that containt a huge collection of mod, like [Skymods](http://smods.ru).
+<br/>
+> *In extension's permission mentioned that it will read and change my data in steamcommunity, what actually changed?*<br/>
+It just permission to allow plugin adding some codes to page, in this case, we added codes for displaying button and button link, not more.
+<br/>
+> *What background proccess actualy do?*<br/>
+It just read your tab address bar, for auto-disable purpose. And this background proccess are not always running.
+<br/>
+> *Can i add another web to integrated with steam?*<br/>
+Yes you can, by editing the source code or contact me, i'll add that web request if possible. Or wait for modular game support feature in the nest release.
+> *Is this can search collection?*<br>
+Currently no, wait for next release.<br/>
+> *Why my search result is nothing?*<br/>
+1. You may didnt selected any game or selected wrong game.<br/>
+2. Or maybe web (skymods) not uploaded that content yet. You can search manualy by name for ensure.
+<br>
 ---
 > Big thanks for [Steam](http://store.steampowered.com/) and [Skymods](http://smods.ru/)
+---
