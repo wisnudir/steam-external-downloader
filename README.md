@@ -17,9 +17,9 @@ Note:
 ### Demo Images
 Button style will add and blended with default style
 ![image of demo-1](https://github.com/wisnudir/steam-external-downloader/blob/master/demo-images/1400%20560.png)
-![image of demo-2](https://github.com/wisnudir/steam-external-downloader/blob/master/demo-images/aa.png)
+![image of demo-2](https://github.com/wisnudir/steam-external-downloader/blob/master/demo-images/aa.PNG)
 ![image of demo-3](https://github.com/wisnudir/steam-external-downloader/blob/master/demo-images/aaa.PNG)
-![image of demo-4](https://github.com/wisnudir/steam-external-downloader/blob/master/demo-images/aaaa.PNG)
+![image of demo-4](https://github.com/wisnudir/steam-external-downloader/blob/master/demo-images/aaaa.png)
 The button will generate:
 ![image of demo-1](https://github.com/wisnudir/steam-external-downloader/blob/master/demo-images/aaaaa.PNG)
 
