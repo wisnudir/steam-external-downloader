@@ -7,7 +7,7 @@ So it will give you easier way to download workshop item (not subscribe), withou
 ## Table of Content
 [Release](#release)
 <br />[How to Instal](#how-to-instal)
-<br />[Demo Images & Guides](#demo-images)
+<br />[Demo Images & Guides](#demo-images--guide)
 <br />[Auto-disable](#auto-disable)
 <br />[Released Feature](#released-feature)
 <br />[Next Feature Update (Release Soon)](#next-feature-update-release-soon)
@@ -111,3 +111,4 @@ also disable when you visit steam page but not in specific workshop item<br />
 ---
 Big thanks to [Steam](http://store.steampowered.com/) and [Skymods](http://smods.ru/)
 ---
+### [back to top](#steam-external-downloader)
