@@ -14,7 +14,7 @@ So it will give you easier way to download workshop item (not subscribe), withou
 <br />[FAQ](#faq)
 <br /><br />
 ## Release
-Check [release tab](https://github.com/wisnudir/steam-external-downloader/releases) for released plugin.
+Check [release tab](https://github.com/wisnudir/steam-external-downloader/releases) for released extension/plugin.
 <br />
 ## How to instal
 Read my [Wiki](https://github.com/wisnudir/steam-external-downloader/wiki) for detail step.<br/><br/>
@@ -33,7 +33,8 @@ Note: <br />
 > - Button will apear in all games, not only for 5 games mentioned above, and if game not supported it will become dummy button<br />
 > - <b>Im not support pirates</b>, it just tool for altenative asset/mod download
 
-<br/> ### [^ back to menu](#table-of-content)
+<br/> 
+### [^ back to menu](#table-of-content)
 
 ## Demo Images & Guide
 Button style will added and blended with steam default style. In the right side image bellow is user interface menu plugin.
@@ -56,7 +57,8 @@ Button style will added and blended with steam default style. In the right side 
 ### Finally button will open new tab and load search result
 <br />Look it just show one result and item is equal, without copy paste or typing anymore.
 ![image of demo-1](https://github.com/wisnudir/steam-external-downloader/blob/master/demo-images/aaaaa.PNG)
-<br/><br/> ### [^ back to menu](#table-of-content)
+<br/><br/> 
+### [^ back to menu](#table-of-content)
 <br /><br/>
 
 ## Auto-inactive
@@ -66,7 +68,8 @@ And will auto-inactive when you visit another website<br />
 ![image of demo-1](https://github.com/wisnudir/steam-external-downloader/blob/master/demo-images/disable.png)<br />
 also inactive when you visit steam page but not in specific workshop item<br />
 ![image of demo-1](https://github.com/wisnudir/steam-external-downloader/blob/master/demo-images/disable-2.png)<br />
-<br/> ### [^ back to menu](#table-of-content)
+<br/> 
+### [^ back to menu](#table-of-content)
 
 ## Released Feature
 ### v1.0
@@ -95,7 +98,8 @@ also inactive when you visit steam page but not in specific workshop item<br />
 - [ ] Add "download" button from skymod as a "Download" button. *It will direct download from cloud storage, such as [uploadfiles.eu](http://uploadfiles.eu/), and bypassing skymod page.*
 - [ ] Add "Search similiar" button to external web
 - [ ] ...
-<br/><br/> ### [^ back to menu](#table-of-content)
+<br/><br/> 
+### [^ back to menu](#table-of-content)
 <br/><br/>
 ## FAQ
 > __Is this plugin will donload content(mod,asset,etc) from Steam server?__
@@ -115,7 +119,9 @@ also inactive when you visit steam page but not in specific workshop item<br />
 
 > __Why my search result is nothing?__
 > You may didnt selected any game or selected wrong game. Or maybe web (skymods) not uploaded that content yet. You can search manualy by name for ensure.
-<br/><br/> ### [^ back to menu](#table-of-content)
+<br/><br/> 
+
+### [^ back to menu](#table-of-content)
 
 ---
 Big thanks to [Steam](http://store.steampowered.com/) and [Skymods](http://smods.ru/)
