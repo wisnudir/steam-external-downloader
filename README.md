@@ -72,15 +72,15 @@ also disable when you visit steam page but not in specific workshop item<br />
 
 ## Next Feature Update (Release Soon)
 ### v1.1 
-- [ ] Add remember checkbox or setting for game selector, *so you dont have to choose game every clicks download button*
-- [ ] Improve read method, *so plugin will know current page categories, such us workshop, screenshoot, video share, etc*
+- [ ] Improve read method, *so plugin will know current page categories and game
+- [ ] No more select game, automaticly selected
 - [ ] Fix button link for workshop collection, v1.0 link is not working
 - [ ] Add download button in every item at workshop collection list
-- [ ] Add media download (images, video) for non asset/mod item, e.g for Artwork, screenshot
 
 ### v1.2
 - [ ] Add modulator game support feature. This will allow you to manage (add, delete, edit) the external link and game supported.
 - [ ] Add button in required item, so you dont have to open required item first.
+- [ ] Add media download (images, video) for non asset/mod item, e.g for Artwork, screenshot
 - [ ] ...
 
 *In version 2.0 will significanly different*
