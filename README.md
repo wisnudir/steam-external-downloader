@@ -5,13 +5,13 @@ Download button linked to another website, such as [Skymods](http://smods.ru). <
 So it will give you easier way to download workshop item (not subscribe), without copy paste keyword or id anymore, just with click.
 ---
 ## Table of Content
-[Release](https://github.com/wisnudir/steam-external-downloader#release)
-<br />[How to Instal](https://github.com/wisnudir/steam-external-downloader#how-to-instal)
-<br />[Demo Images & Guides](https://github.com/wisnudir/steam-external-downloader#demo-images)
-<br />[Auto-disable](https://github.com/wisnudir/steam-external-downloader#auto-disable)
-<br />[Released Feature](https://github.com/wisnudir/steam-external-downloader#released-feature)
-<br />[Next Feature Update (Release Soon)](https://github.com/wisnudir/steam-external-downloader#next-feature-update-release-soon)
-<br />[FAQ](https://github.com/wisnudir/steam-external-downloader#faq)
+[Release](#release)
+<br />[How to Instal](#how-to-instal)
+<br />[Demo Images & Guides](#demo-images)
+<br />[Auto-disable](#auto-disable)
+<br />[Released Feature](#released-feature)
+<br />[Next Feature Update (Release Soon)](#next-feature-update-release-soon)
+<br />[FAQ](#faq)
 <br /><br />
 ## Release
 Check [release tab](https://github.com/wisnudir/steam-external-downloader/releases) for released plugin.
