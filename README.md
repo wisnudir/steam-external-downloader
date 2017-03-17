@@ -17,6 +17,7 @@ So it will give you easier way to download workshop item (not subscribe), withou
 Check [release tab](https://github.com/wisnudir/steam-external-downloader/releases) for released plugin.
 <br />
 ## How to instal
+Read my [Wiki](https://github.com/wisnudir/steam-external-downloader/wiki) for detail step.<br/>
 Currently is not available in Chrome Web Store, you have to instal manualy by dragging <code>.crx</code> file to your Chrome browser. <br />
 Its normal if chrome will show harmfull software warning, because is not registered in their web store. You can completely ignore that, its save and wouldnt cause damages anything, check our source code for your ensure. <br /> 
 Alternatively, if chrome keep prefent this plugin, you can clone this project, extract, and upload to chrome via developer mode, and dont forget to disable devevloper mode after uploaded.<br/><br/>
@@ -31,6 +32,7 @@ Note: <br />
 > - You have to choose one of them before click download button, or you'll get nothing. <br />
 > - Button will apear in all games, not only for 5 games mentioned above, and if game not supported it will become dummy button<br />
 > - <b>Im not support pirates</b>, it just tool for altenative asset/mod download
+<br/>[^ back to menu](#table-of-content)
 
 ## Demo Images & Guide
 Button style will added and blended with steam default style. In the right side image bellow is user interface menu plugin.
@@ -53,15 +55,17 @@ Button style will added and blended with steam default style. In the right side 
 ### Finally button will open new tab and load search result
 <br />Look it just show one result and item is equal, without copy paste or typing anymore.
 ![image of demo-1](https://github.com/wisnudir/steam-external-downloader/blob/master/demo-images/aaaaa.PNG)
+<br/>[^ back to menu](#table-of-content)
 <br /><br/>
 
-## Auto-disable
-This extension only enable if you open specific workshop item and/or shared file item<br />
+## Auto-inactive
+This extension only active if you open specific workshop item and/or shared file item<br />
 ![image of demo-1](https://github.com/wisnudir/steam-external-downloader/blob/master/demo-images/enable.png)<br />
-And will auto-disable when you visit another website<br />
+And will auto-inactive when you visit another website<br />
 ![image of demo-1](https://github.com/wisnudir/steam-external-downloader/blob/master/demo-images/disable.png)<br />
-also disable when you visit steam page but not in specific workshop item<br />
+also inactive when you visit steam page but not in specific workshop item<br />
 ![image of demo-1](https://github.com/wisnudir/steam-external-downloader/blob/master/demo-images/disable-2.png)<br /><br/>
+<br/>[^ back to menu](#table-of-content)
 
 ## Released Feature
 ### v1.0
@@ -90,6 +94,7 @@ also disable when you visit steam page but not in specific workshop item<br />
 - [ ] Add "download" button from skymod as a "Download" button. *It will direct download from cloud storage, such as [uploadfiles.eu](http://uploadfiles.eu/), and bypassing skymod page.*
 - [ ] Add "Search similiar" button to external web
 - [ ] ...
+<br/>[^ back to menu](#table-of-content)
 <br/><br/>
 ## FAQ
 > __Is this plugin will donload content(mod,asset,etc) from Steam server?__
@@ -109,6 +114,7 @@ also disable when you visit steam page but not in specific workshop item<br />
 
 > __Why my search result is nothing?__
 > You may didnt selected any game or selected wrong game. Or maybe web (skymods) not uploaded that content yet. You can search manualy by name for ensure.
+<br/>[^ back to menu](#table-of-content)
 
 ---
 Big thanks to [Steam](http://store.steampowered.com/) and [Skymods](http://smods.ru/)
