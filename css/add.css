@@ -1,5 +1,8 @@
+/*ALL THIS CSS is just for user interface in CHROME MENU not for button*/
+/*WE USED STEAM CLASS for button css, check js/inject.js for that*/
 
 @import url('http://fonts.googleapis.com/css?family=Raleway:400,200');
+/*initial popup width & height*/
 body{
   font-family: Helvetica, san-serif;
   background: #EDF7FA;
@@ -7,7 +10,7 @@ body{
   height: 300px;
 }
 
-/*HOME CARD*/
+/*HOME*/
 .transition { transition: .3s cubic-bezier(.3, 0, 0, 1.3) }
 .card {
     background-color: #fff;
@@ -80,6 +83,8 @@ p {
     text-align: center;
     z-index: 9999;
 }
+
+/*cta is for ui button*/
 .cta-container {
     display: none;
     margin-top: 320px;
@@ -120,7 +125,7 @@ p {
 }
 
 
-/*MESSAGE*/
+/*for message purpose, like warning, info, etc*/
 @import url('//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css');
 
 .info-msg,
