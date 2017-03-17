@@ -80,6 +80,7 @@ also disable when you visit steam page but not in specific workshop item<br />
 
 ### v1.2
 - [ ] Add modulator game support feature. This will allow you to manage (add, delete, edit) the external link and game supported.
+- [ ] Add button in required item, so you dont have to open required item first.
 - [ ] ...
 
 *In version 2.0 will significanly different*
@@ -88,6 +89,7 @@ also disable when you visit steam page but not in specific workshop item<br />
 - [ ] Add "read more" button from skymod as a "Skymod Link" button. *Skymod is just example, can be replace by anoyher website if available*
 - [ ] Add "download" button from skymod as a "Download" button. *It will direct download from cloud storage, such as [uploadfiles.eu](http://uploadfiles.eu/), and bypassing skymod page.*
 - [ ] Add "Search similiar" button to external web
+- [ ] ...
 <br/><br/>
 ## FAQ
 > __Is this plugin will donload content(mod,asset,etc) from Steam server?__
