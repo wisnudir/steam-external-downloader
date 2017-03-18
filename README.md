@@ -7,7 +7,7 @@ So it will give you easier way to download workshop item (not subscribe), withou
 ## Table of Content
 [Release](#release)
 <br />[How to Instal](#how-to-instal)
-<br />[Demo Images & Guides](#demo-images--guide)
+<br />[Demo & Guides](#demo-images--guide)
 <br />[Auto-disable](#auto-disable)
 <br />[Released Feature](#released-feature)
 <br />[Next Feature Update (Release Soon)](#next-feature-update-release-soon)
@@ -17,7 +17,8 @@ So it will give you easier way to download workshop item (not subscribe), withou
 Check [release tab](https://github.com/wisnudir/steam-external-downloader/releases) for released extension/plugin.
 <br />
 ## How to instal
-Read my [Wiki](https://github.com/wisnudir/steam-external-downloader/wiki) for detail step.<br/><br/>
+Read my [Wiki](https://github.com/wisnudir/steam-external-downloader/wiki) for detail step.<br/>
+Or watch video instead [https://youtu.be/bj2eipmlwXc](https://youtu.be/bj2eipmlwXc)<br/><br/>
 Currently is not available in Chrome Web Store, you have to instal manualy by dragging <code>.crx</code> file to your Chrome browser. <br />
 Its normal if chrome will show harmfull software warning, because is not registered in their web store. You can completely ignore that, its save and wouldnt cause damages anything, check our source code for your ensure. <br /> 
 Alternatively, if chrome keep prefent this plugin, you can clone this project, extract, and upload to chrome via developer mode, and dont forget to disable devevloper mode after uploaded.<br/><br/>
@@ -34,10 +35,10 @@ Note: <br />
 > - <b>Im not support pirates</b>, it just tool for altenative asset/mod download
 
 <br/> 
-### [^ back to menu](#table-of-content)
 <br/>
 
-## Demo Images & Guide
+## Demo & Guide
+Do you want to demo in video? here is [https://youtu.be/61TNOQTOlk8](https://youtu.be/61TNOQTOlk8)<br/><br/>
 Button style will added and blended with steam default style. In the right side image bellow is user interface menu plugin.
 ![image of demo-1](https://github.com/wisnudir/steam-external-downloader/blob/master/demo-images/1400%20560.png)<br />
 <br/><br/>
