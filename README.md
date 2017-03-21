@@ -20,7 +20,7 @@ Check [release tab](https://github.com/wisnudir/steam-external-downloader/releas
 Read my [Wiki](https://github.com/wisnudir/steam-external-downloader/wiki) for detail step.<br/>
 Or watch video instead [https://youtu.be/bj2eipmlwXc](https://youtu.be/bj2eipmlwXc)<br/><br/>
 Currently is not available in Chrome Web Store, you have to instal manualy by dragging <code>.crx</code> file to your Chrome browser. <br />
-Its normal if chrome will show harmfull software warning, because is not registered in their web store. You can completely ignore that, its save and wouldnt cause damages anything, check our source code for your ensure. <br /> 
+Its normal if chrome will show harmfull software warning, because is not registered in their web store. You can completely ignore that, its safe and wouldnt cause damages anything, check our source code for your ensure. <br /> 
 Alternatively, if chrome keep prefent this plugin, you can clone this project, extract, and upload to chrome via developer mode, and dont forget to disable devevloper mode after uploaded.<br/><br/>
 For now, its support for 5 games and all of them from [Skymods](http://smods.ru), there are: 
 * Cities: Skyline [smods.ru](http://smods.ru)
@@ -124,7 +124,9 @@ also inactive when you visit steam page but not in specific workshop item<br />
 <br/><br/> 
 
 ### [^ back to menu](#table-of-content)
-
+<br/><br/> 
+Sorry for my bad english, english is my third language.
+<br/><br/> 
 ---
 Big thanks to [Steam](http://store.steampowered.com/) and [Skymods](http://smods.ru/)
 ---
